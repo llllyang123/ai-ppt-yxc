@@ -1,2 +1,3 @@
 # ai-ppt-yxc
-这是一个ai生成的ppt项目
+
+这是一个基于ai生成ppt的项目
